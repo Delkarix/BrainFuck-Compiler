@@ -1,0 +1,7 @@
+C:\Users\catteralldm\source\repos\BrainF Compiler\BrainF Compiler\bin\Debug\BrainF.exe.config
+C:\Users\catteralldm\source\repos\BrainF Compiler\BrainF Compiler\bin\Debug\BrainF.exe
+C:\Users\catteralldm\source\repos\BrainF Compiler\BrainF Compiler\bin\Debug\BrainF.pdb
+C:\Users\catteralldm\source\repos\BrainF Compiler\BrainF Compiler\obj\Debug\BrainF Compiler.csprojAssemblyReference.cache
+C:\Users\catteralldm\source\repos\BrainF Compiler\BrainF Compiler\obj\Debug\BrainF Compiler.csproj.CoreCompileInputs.cache
+C:\Users\catteralldm\source\repos\BrainF Compiler\BrainF Compiler\obj\Debug\BrainF.exe
+C:\Users\catteralldm\source\repos\BrainF Compiler\BrainF Compiler\obj\Debug\BrainF.pdb
